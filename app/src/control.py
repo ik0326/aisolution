@@ -3,7 +3,7 @@ import random
 import copy
 import matplotlib.pyplot as plt
 from matplotlib import animation, rc, gridspec
-from IPython.display import HTML
+# from IPython.display import HTML
 
 N = 100  # エージェントの個数
 SIZE = N   # 仮想空間のサイズ
